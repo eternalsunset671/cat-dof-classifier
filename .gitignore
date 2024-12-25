@@ -1,0 +1,5 @@
+*.toml
+*.prettierrc
+*.pth
+*.pt
+/Animal Images
